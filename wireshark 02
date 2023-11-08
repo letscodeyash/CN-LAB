@@ -5,3 +5,6 @@ c)open handshake protocol
 d)open cipher suites
 
 2) tcp.stream eq 15 && tls
+
+
+tcp.stream eq 34 && ssl	
